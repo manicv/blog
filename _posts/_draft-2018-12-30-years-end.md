@@ -14,8 +14,6 @@ All the while I would be immediately responsive to the viewers in the chat. No d
 
 I started getting invitations to commentate for other streams and events. I was asked to co-host the livestream for EVE Vegas 2016 alongside Rahne and Bam Stroker, and I was accepted to give a [presentation](https://www.youtube.com/watch?v=6X_LNrQqCOk) on finding one's place in the EVE community. I was pulled up on stage to sing with Permaband that year.
 
-<img src="/images/permaband-cropped.jpg">
-
 Then in February of 2017 I had a conversation with CCP Guard, and he asked if I was going to Fanfest that year. He said he had a plan to have a player on stage to co-host the opening ceremony with him. It was the first time CCP had ever done anything like this. And in my naivete', not picking up on the obvious hint, I began giving him a list of players who I felt would be a good fit for the idea.
 
 *"Actually, we want you to do it."*
