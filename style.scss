@@ -116,7 +116,7 @@ img {
   border-radius: 5px;
 }
 
-.embed-container {
+.youtube-container {
     border-radius: 5px;
     position: relative;
     padding-bottom: 56.25%;
@@ -124,9 +124,9 @@ img {
     overflow: hidden;
     max-width: 100%;
 }
-.embed-container iframe,
-.embed-container object,
-.embed-container embed {
+.youtube-container iframe,
+.youtube-container object,
+.youtube-container embed {
     position: absolute;
     top: 0;
     left: 0;
